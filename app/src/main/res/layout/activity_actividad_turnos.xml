@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:theme="@style/Theme.AppCompat.Light"
+    tools:context=".ActividadTurnos">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bFecha"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="40dp"
+            android:background="#6ca07f"
+            android:text="@string/fecha" />
+
+        <TextView
+            android:id="@+id/eFecha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/bBuscar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_margin="40dp"
+            android:background="#6ca07f"
+            android:text="@string/buscar" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:gravity="center"
+            android:text="@string/la_farmacia_de_turno_es"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/eNombre"
+            android:layout_width="match_parent"
+            android:layout_height="41dp"
+            android:gravity="center"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+</LinearLayout>

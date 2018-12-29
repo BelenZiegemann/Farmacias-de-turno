@@ -1,0 +1,149 @@
+13;8;Fenoglio
+14;8;Francesa
+15;8;Fidalgo
+16;8;Del Pueblo
+17;8;Sitz
+18;8;Pigue
+19;8;Aostri
+20;8;Americana
+21;8;Fenoglio
+22;8;Francesa
+23;8;Fidalgo
+24;8;Del Pueblo
+25;8;Sitz
+26;8;Pigue
+27;8;Aostri
+28;8;Americana
+29;8;Fenoglio
+30;8;Francesa
+31;8;Fidalgo
+1;9;Del Pueblo
+2;9;Sitz
+3;9;Pigue
+4;9;Aostri
+5;9;Americana
+6;9;Fenoglio
+7;9;Francesa
+8;9;Fidalgo
+9;9;Del Pueblo
+10;9;Sitz
+11;9;Pigue
+12;9;Aostri
+13;9;Americana
+14;9;Fenoglio
+15;9;Francesa
+16;9;Fidalgo
+17;9;Del Pueblo
+18;9;Sitz
+19;9;Pigue
+20;9;Aostri
+21;9;Americana
+22;9;Fenoglio
+23;9;Francesa
+24;9;Fidalgo
+25;9;Del Pueblo
+26;9;Sitz
+27;9;Pigue
+28;9;Aostri
+29;9;Americana
+30;9;Fenoglio
+1;10;Francesa
+2;10;Fidalgo
+3;10;Del Pueblo
+4;10;Sitz
+5;10;Pigue
+6;10;Aostri
+7;10;Americana
+8;10;Fenoglio
+9;10;Francesa
+10;10;Fidalgo
+11;10;Del Pueblo
+12;10;Sitz
+13;10;Pigue
+14;10;Aostri
+15;10;Americana
+16;10;Fenoglio
+17;10;Francesa
+18;10;Fidalgo
+19;10;Del Pueblo
+20;10;Sitz
+21;10;Pigue
+22;10;Aostri
+23;10;Americana
+24;10;Fenoglio
+25;10;Francesa
+26;10;Fidalgo
+27;10;Del Pueblo
+28;10;Sitz
+29;10;Pigue
+30;10;Aostri
+31;10;Americana
+1;11;Fenoglio
+2;11;Francesa
+3;11;Fidalgo
+4;11;Del Pueblo
+5;11;Sitz
+6;11;Pigue
+7;11;Aostri
+8;11;Americana
+9;11;Fenoglio
+10;11;Francesa
+11;11;Fidalgo
+12;11;Del Pueblo
+13;11;Sitz
+14;11;Pigue
+15;11;Aostri
+16;11;Americana
+17;11;Fenoglio
+18;11;Francesa
+19;11;Fidalgo
+20;11;Del Pueblo
+21;11;Sitz
+22;11;Pigue
+23;11;Aostri
+24;11;Americana
+25;11;Fenoglio
+26;11;Francesa
+27;11;Fidalgo
+28;11;Del Pueblo
+28;11;Sitz
+30;11;Pigue
+1;12;Aostri
+2;12;Americana
+3;12;Fenoglio
+4;12;Francesa
+5;12;Fidalgo
+5;12;Del Pueblo
+5;12;Sitz
+6;12;Pigue
+7;12;Aostri
+8;12;Americana
+9;12;Fenoglio
+10;12;Francesa
+11;12;Fidalgo
+12;12;Del Pueblo
+13;12;Sitz
+14;12;Pigue
+15;12;Aostri
+16;12;Americana
+17;12;Fenoglio
+18;12;Francesa
+19;12;Fidalgo
+20;12;Del Pueblo
+21;12;Sitz
+22;12;Pigue
+23;12;Aostri
+24;12;Americana
+25;12;Fenoglio
+26;12;Francesa
+27;12;Fidalgo
+28;12;Del Pueblo
+29;12;Sitz
+30;12;Pigue
+31;12;Aostri
+
+
+
+
+
+
